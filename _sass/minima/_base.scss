@@ -252,3 +252,13 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+/***
+Other
+***/
+
+.fa-r:before {
+    font-family: Arial; /* your font family here! */
+    font-weight: bold;
+    content: 'R';
+}
