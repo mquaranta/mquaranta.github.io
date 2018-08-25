@@ -5,6 +5,8 @@ keywords: "EUI,  European University Institute, Max Weber fellow, SNS, Scuola No
 permalink: /publications/
 ---
 
+## [](#Publications)Publications
+
 ### [](#books)Books
 
 De Blasio, E., M. Quaranta, M. Santaniello and M. Sorice. *Media, politica e società: Le tecniche di ricerca.* [Media, politics and society: Research techniques] Roma: Carocci, 2017<br/>

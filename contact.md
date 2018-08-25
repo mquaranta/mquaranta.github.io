@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-## [](#contact)Contact
+## Contact
 
 <p>
 Department of Political and Social Sciences<br/>

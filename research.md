@@ -5,4 +5,6 @@ keywords: "EUI,  European University Institute, Max Weber fellow, SNS, Scuola No
 permalink: /research/
 ---
 
+## Research
+
  My main research interests lie in the intersection between political science and sociology. I’m broadly interested in civic and political behavior, public opinion, and democracy. I study the contextual patterns and changes in political participation; the dynamics of participation over the life course; the reproduction of participatory behaviors within families and patterns of political socialization; youth politics; attitudes and orientations towards democracy; quality of democracy; the consequences of changes in the economy for political behavior and opinion; and the changes in individual and contextual heterogeneities in political behavior and public opinion. I've been involved in several research projects on quality of democracy, political participation, public opinion, and collection of survey data.
