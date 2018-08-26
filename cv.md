@@ -7,4 +7,4 @@ permalink: /cv/
 
 # CV
 
-You can download my cv [here](/cv-quaranta-web.pdf)
+You find download my cv [here](/cv-quaranta-web.pdf).
