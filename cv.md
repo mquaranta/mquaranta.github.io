@@ -33,16 +33,16 @@ LLP/Erasmus at the <a href="http://gsss.uva.nl">International School of Humaniti
 
 ### [](#teaching)Teaching
 
-#### LUISS 'Guido Carli'
+*LUISS 'Guido Carli'*
 
-Political Science (BA) - 2017
+- Political Science (BA) - 2017
 
-Quantitative Methods for Political Research (PhD) - 2014, 2015, 2016, 2017
+- Quantitative Methods for Political Research (PhD) - 2014, 2015, 2016, 2017
 
-Processes of Democratization (MA) -  2014, 2015, 2016
+- Processes of Democratization (MA) -  2014, 2015, 2016
 
-Foundations of Political Science (pre-MA) - 2013
+- Foundations of Political Science (pre-MA) - 2013
 
-#### Institute of Advanced Studies IMT
+*Institute of Advanced Studies IMT*
 
-Quantitative Methods for Political Research (PhD) - 2013
+- Quantitative Methods for Political Research (PhD) - 2013
