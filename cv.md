@@ -5,4 +5,6 @@ keywords: "EUI,  European University Institute, Max Weber fellow, SNS, Scuola No
 permalink: /cv/
 ---
 
+# CV
+
 You can download my cv [here](/cv-quaranta-web.pdf)
