@@ -5,9 +5,9 @@ keywords: "EUI,  European University Institute, Max Weber fellow, SNS, Scuola No
 permalink: /publications/
 ---
 
-## [](#Publications)Publications
+# [](#Publications)Publications
 
-### [](#books)Books
+## [](#books)Books
 
 De Blasio, E., M. Quaranta, M. Santaniello and M. Sorice. *Media, politica e società: Le tecniche di ricerca.* [Media, politics and society: Research techniques] Roma: Carocci, 2017<br/>
 [Publisher link](http://www.carocci.it/index.php?option=com_carocci&task=schedalibro&Itemid=72&isbn=9788843085651) \| [Cover](/docs/CarocciCover.pdf) \| [Table of contents](/docs/CarocciToC.pdf)
@@ -17,7 +17,7 @@ Quaranta, M. *Political protest in Western Europe. Exploring the role of context
 [Publisher link](http://www.springer.com/u s/book/9783319221618) \| [Flyer](/docs/flyer.pdf) \| [Table of contents](http://link.springer.com/content/pdf/bfm%3A978-3-319-22162-5%2F1.pdf) \| [Google Books](https://books.google.ch/books?id=y4qQCgAAQBAJ&dq=info:EO7QjnwrUg4J:scholar.google.com&lr=&source=gbs_navlinks_s)
 
 
-### [](#articles)Articles
+## [](#articles)Articles
 
 Quaranta, M. 'Repertoires of political participation: Macroeconomic conditions, socioeconomic resources and participation gaps in Europe' *International Journal of Comparative Sociology* (accepted for publication)
 
@@ -149,7 +149,7 @@ Quaranta, M. 'Chi protesta in Italia? Le forme di partecipazione politica non co
 [Publisher link](https://qds.revues.org/539) \|  [Abstract](/abs/qs2012/)
 
 
-### [](#chapters)Chapters
+## [](#chapters)Chapters
 
 Quaranta, M. 'Protest and contentious action', in the *Oxford Research Encyclopedia of Politics*, ed. W. R. Thompson. Oxford: Oxford University Press, 2017<br/>
 [Publisher link](http://politics.oxfordre.com/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-225?rskey=NujhAw&result=1)
@@ -170,7 +170,7 @@ Morlino, L. and M. Quaranta. 'The non-procedural determinants of responsiveness,
 Facello, C. and M. Quaranta. 'Partecipazione,' [Participation] in *La qualità della democrazia in Italia, 1992-2012* [The quality of democracy in Italy, 1992-2012], eds. L. Morlino, D. Piana and F. Raniolo. Bologna: Il Mulino, 2013<br/>
 [Publisher link](https://www.mulino.it/isbn/9788815244307)
 
-### [](#software)Software
+## [](#software)Software
 
 Medzihorsky, J., I.-E. Oana, M. Quaranta and C. Q. Schneider. *SetMethods: Functions for Set-Theoretic Multi-Method Research and Advanced QCA.* Version 2.3.1 (2018)<br/>
 [Link](https://cran.r-project.org/web/packages/SetMethods/) \| [Download](https://cran.r-project.org/src/contrib/SetMethods_2.3.1.tar.gz) \| [Manual](https://cran.r-project.org/web/packages/SetMethods/SetMethods.pdf)
@@ -188,7 +188,7 @@ Quaranta, M. *SetMethods: A package companion to 'Set-theoretic methods for the 
 [Download](https://cran.r-project.org/src/contrib/Archive/SetMethods/SetMethods_1.0.tar.gz)
 
 
-### [](#misc)Misc
+## [](#misc)Misc
 
 Quaranta, M. and C. Q. Schneider. *How to... use software for set-theoretic analysis: Online appendix to C. Q. Schneider and C. Wagemann (2012) Set-theoretic methods for the social sciences*. Cambridge: Cambridge University Press, 2013 (134 pp.)<br/>
 [Download](http://www.cambridge.org/download_file/857936)

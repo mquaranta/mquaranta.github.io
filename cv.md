@@ -5,9 +5,9 @@ keywords: "EUI,  European University Institute, Max Weber fellow, SNS, Scuola No
 permalink: /cv/
 ---
 
-## CV
+# CV
 
-### [](#positions)Positions
+## [](#positions)Positions
 
 Max Weber Fellow, Department of Political and Social Sciences, European University Institute 9/2017-8/2018
 
@@ -15,7 +15,7 @@ Post-doctoral researcher, Institute of Humanities and Social Sciences, Scuola No
 
 Post-doctoral researcher, Department of Political Science, LUISS 'Guido Carli', 3/2013-9/2016
 
-### [](#education)Education
+## [](#education)Education
 
 Ph.D. in Political Science, Istituto Italiano di Scienze Umane, 2013
 
@@ -23,7 +23,7 @@ Ph.D. in Political Science, Istituto Italiano di Scienze Umane, 2013
 
 'Laurea triennale' (BA) in Sociology, Faculty of Sociology – Università degli Studi di Trento, 2005
 
-### [](#abroad)Stays abroad
+## [](#abroad)Stays abroad
 
 Vising fellow at the <a href="http://www.uu.nl/en/organisation/faculty-of-social-and-behavioural-sciences/about-the-faculty/departments/sociology">Department of Sociology</a>, Universiteit Utrecht (NL), Sep 2016
 
@@ -31,9 +31,9 @@ Vising fellow at the <a href="http://www.democracy.uci.edu">Center for the Study
 
 LLP/Erasmus at the <a href="http://gsss.uva.nl">International School of Humanities and Social Sciences</a>, Universiteit van Amsterdam, 2007 - 2008
 
-### [](#teaching)Teaching
+## [](#teaching)Teaching
 
-*LUISS 'Guido Carli'*
+### LUISS 'Guido Carli'
 
 - Political Science (BA) - 2017
 
@@ -43,6 +43,6 @@ LLP/Erasmus at the <a href="http://gsss.uva.nl">International School of Humaniti
 
 - Foundations of Political Science (pre-MA) - 2013
 
-*Institute of Advanced Studies IMT*
+### Institute of Advanced Studies IMT
 
 - Quantitative Methods for Political Research (PhD) - 2013
