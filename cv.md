@@ -8,3 +8,8 @@ permalink: /cv/
 # CV
 
 You can find my cv [here](/cv-quaranta.pdf).
+
+
+Title 1               | Title 2
+--------------------- | ------------------------------------------------------------------------------------
+Current position      | Max Weber Fellow - Department of Political and Social Sciences, European University Institute [9/2018–2/2019]
