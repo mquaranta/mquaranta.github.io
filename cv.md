@@ -10,6 +10,9 @@ permalink: /cv/
 You can find my cv [here](/cv-quaranta.pdf).
 
 
-Title 1               | Title 2
---------------------- | ------------------------------------------------------------------------------------
-Current position      | Max Weber Fellow - Department of Political and Social Sciences, European University Institute [9/2018–2/2019]
+--------------------- | ---------------------------------------------------------------------------------------------------------------
+**Current position**  | *Max Weber Fellow* - Department of Political and Social Sciences, European University Institute [9/2018–2/2019]
+--------------------- | ---------------------------------------------------------------------------------------------------------------
+                      | *Post-doctoral fellow* - Institute of Humanities and Social Sciences, Scuola Normale Superiore [9/2016–9/2017]
+--------------------- | ---------------------------------------------------------------------------------------------------------------
+                      | *Post-doctoral fello* - Department of Political Science, LUISS ‘Guido Carli’ [3/2013–9/2016]
