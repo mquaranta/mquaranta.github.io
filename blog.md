@@ -5,4 +5,4 @@ keywords: "EUI,  European University Institute, Max Weber fellow, SNS, Scuola No
 permalink: /blog/
 ---
 
-Here, I'll share some news and, if I have time, write some post on various topics.
+Here, I'll share some news and, if I have time, write some posts on various topics.
