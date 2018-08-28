@@ -19,6 +19,10 @@ You can find my cv in pdf [here](/cv-quaranta.pdf).
                       | *Member* - Centre on Social Movement Studies, Scuola Normale Superiore [2012-]
                       | *Member of the Managing board* - International Center on Democracy and Democratization, LUISS `Guido Carli' [2012-]
 **Education**         |
-                      | *Phd in Political Science* - Istituto Italiano di Scienze Umane [10/2009-2/2013]
+                      | *PhD in Political Science* - Istituto Italiano di Scienze Umane [10/2009-2/2013]
                       | *MA in Methodology and Empirical Research for the Social Sciences* - Università degli Studi di Firenze [9/2006-5/2009]
                       | *BA in Sociology* - Università degli Studi di Trento [9/2002-12/2005]
+**Stays abroad**      |
+                      | *Teaching practice week* - Masaryk University [3/2018]
+                      | *Visiting fellow* - Department of Sociology, Universiteit Utrecht [9/2016]
+                      | *Visiting fellow* - Center for the Study of Democracy, University of California - Irvine [10/2011-3/2012]
