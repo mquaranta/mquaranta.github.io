@@ -94,19 +94,19 @@ Quaranta, M. ‘Towards a western European 'social movement society'? An assessm
 
 
 Quaranta, M. ‘An apathetic generation? Cohorts' patterns of political participation in Italy.’ *Social Indicators Research* 125.3 (2016): 793-812<br/>
-[Publisher link](http://link.springer.com/article/10.1007/s11205-015-0869-x) \| [Preprint](/abs/QuarantaSOCI2016.pdf) \| [Abstract](/abs/soci2016/)
+[Publisher link](http://link.springer.com/article/10.1007/s11205-015-0869-x) \| [Preprint](/docs/QuarantaSOCI2016.pdf) \| [Abstract](/abs/soci2016/)
 
 
 Martini, S., and M. Quaranta. ‘Finding out the hard way: Uncovering the structural foundations of political dissatisfaction in Italy, 1973-2013.’ *West European Politics* 38.1 (2015): 28-52<br/>
-[Publisher link](http://www.tandfonline.com/doi/abs/10.1080/01402382.2014.943524) \| [Preprint](/abs/MartiniQuarantaWEP2014.pdf) \| [Abstract](/abs/wep2015/)
+[Publisher link](http://www.tandfonline.com/doi/abs/10.1080/01402382.2014.943524) \| [Preprint](/docs/MartiniQuarantaWEP2014.pdf) \| [Abstract](/abs/wep2015/)
 
 
 Dotti Sani, G. M. and M. Quaranta. ‘Chips off the old blocks? Parents and children's patterns of political participation in Italy.’ *Social Science Research* 50.1 (2015): 264-276<br/>
-[Publisher link](http://www.sciencedirect.com/science/article/pii/S0049089X14002269) \| [Preprint](/abs/DottiSaniQuarantaSSR2014.pdf) \| [Abstract](/abs/ssr2015/)
+[Publisher link](http://www.sciencedirect.com/science/article/pii/S0049089X14002269) \| [Preprint](/docs/DottiSaniQuarantaSSR2014.pdf) \| [Abstract](/abs/ssr2015/)
 
 
 Quaranta, M. and G. M. Dotti Sani. ‘O tutti o nessuno? Differenze regionali e di genere nella partecipazione politica e sociale intrafamigliare.’  [It runs in the family. Regional and gender differences in political and social participation in Italian households] *Polis - Ricerche e studi su società e politica in Italia* 29.1 (2015): 59-92<br/>
-[Publisher link](https://www.rivisteweb.it/doi/10.1424/79273) \| [Preprint](/abs/QuarantaDottiSaniPolis2015.pdf) \| [Abstract](/abs/polis2015/)
+[Publisher link](https://www.rivisteweb.it/doi/10.1424/79273) \| [Preprint](/docs/QuarantaDottiSaniPolis2015.pdf) \| [Abstract](/abs/polis2015/)
 
 
 Quaranta, M. 'Collective and private resources, and the inequalities of non-violent political protest in European countries.' *Journal of Civil Society* 10.3 (2014): 294-316<br/>
@@ -126,7 +126,7 @@ Morlino, L. and M. Quaranta. 'The non-procedural determinants of responsiveness.
 
 
 Quaranta, M. 'Fuzzy set theory and concepts: A proposal for concept formation and operationalization.' *Comparative Sociology* 12.6 (2013): 785-820<br/>
-[Publisher link](http://booksandjournals.brillonline.com/content/journals/10.1163/15691330-12341283) \| [Preprint](/abs//docs/QuarantaCompSoc2013.pdf) \| [Abstract](/abs/cs2013a/)
+[Publisher link](http://booksandjournals.brillonline.com/content/journals/10.1163/15691330-12341283) \| [Preprint](/docs/QuarantaCompSoc2013.pdf) \| [Abstract](/abs/cs2013a/)
 
 
 Quaranta, M. 'Measuring political protest in Western Europe: Assessing cross-national equivalence.' *European Political Science Review* 5.3 (2013): 457-482<br/>
@@ -138,7 +138,7 @@ Quaranta, M. 'The impact of institutional decentralization on protest in Western
 
 
 Dotti Sani, G. M. and M. Quaranta. 'A mixed approach to the work-motherhood relation:  An application of fuzzy set Qualitative Comparative Analysis and Generalized Linear Models.' *Comparative Sociology* 12.1 (2013): 31-75<br/>
-[Publisher link](http://booksandjournals.brillonline.com/content/journals/10.1163/15691330-12341251) \| [Preprint](/abs//docs/DottiSaniQuarantaCompSoc2013.pdf) \| [Abstract](/abs/cs2013b/)
+[Publisher link](http://booksandjournals.brillonline.com/content/journals/10.1163/15691330-12341251) \| [Preprint](/docs/DottiSaniQuarantaCompSoc2013.pdf) \| [Abstract](/abs/cs2013b/)
 
 
 Quaranta, M. 'The rise of unconventional political participation in Italy. Measurement equivalence and trends: 1976-2009.' *Bulletin of Italian Politics* 4.2 (2012): 251-276<br/>

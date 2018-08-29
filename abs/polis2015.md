@@ -4,8 +4,8 @@ keywords: "EUI,  European University Institute, Max Weber fellow, SNS, Scuola No
 permalink: /abs/polis2015/
 ---
 
-Quaranta, M. and G. M. Dotti Sani. ‘O tutti o nessuno? Differenze regionali e di genere nella partecipazione politica e sociale intrafamigliare.’  [It runs in the family. Regional and gender differences in political and social participation in Italian households] *Polis - Ricerche e studi su società e politica in Italia* 29.1 (2015): 59-92  
-[Publisher link](https://www.rivisteweb.it/doi/10.1424/79273) \| [Preprint](/abs/QuarantaDottiSaniPolis2015.pdf)
+Quaranta, M. and G. M. Dotti Sani. ‘O tutti o nessuno? Differenze regionali e di genere nella partecipazione politica e sociale intrafamigliare.’  [It runs in the family. Regional and gender differences in political and social participation in Italian households] *Polis - Ricerche e studi su società e politica in Italia* 29.1 (2015): 59-92
+[Publisher link](https://www.rivisteweb.it/doi/10.1424/79273) \| [Preprint](/docs/QuarantaDottiSaniPolis2015.pdf)
 
 _Abstract_
 
