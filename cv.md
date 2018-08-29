@@ -9,20 +9,24 @@ permalink: /cv/
 
 You can find my cv in pdf [here](/cv-quaranta.pdf).
 
-**Current position**  |
-                      | *Max Weber Fellow* - Department of Political and Social Sciences, European University Institute [9/2018–2/2019]
-**Previous positions**|
-                      | *Post-doctoral fellow* - Institute of Humanities and Social Sciences, Scuola Normale Superiore [9/2016–9/2017]
-                      | *Post-doctoral fellow* - Department of Political Science, LUISS ‘Guido Carli’ [3/2013–9/2016]
-**Affiliations**      |
-                      | *Research affiliate* - Italian Institute for Public Policy Analysis [2017-]
-                      | *Member* - Centre on Social Movement Studies, Scuola Normale Superiore [2012-]
-                      | *Member of the Managing board* - International Center on Democracy and Democratization, LUISS `Guido Carli' [2012-]
-**Education**         |
-                      | *PhD in Political Science* - Istituto Italiano di Scienze Umane [10/2009-2/2013]
-                      | *MA in Methodology and Empirical Research for the Social Sciences* - Università degli Studi di Firenze [9/2006-5/2009]
-                      | *BA in Sociology* - Università degli Studi di Trento [9/2002-12/2005]
-**Stays abroad**      |
-                      | *Teaching practice week* - Masaryk University [3/2018]
-                      | *Visiting fellow* - Department of Sociology, Universiteit Utrecht [9/2016]
-                      | *Visiting fellow* - Center for the Study of Democracy, University of California - Irvine [10/2011-3/2012]
+## Current position
+* *Max Weber Fellow* - Department of Political and Social Sciences, European University Institute [9/2018–2/2019]
+
+## Previous positions
+* *Post-doctoral fellow* - Institute of Humanities and Social Sciences, Scuola Normale Superiore [9/2016–9/2017]
+* *Post-doctoral fellow* - Department of Political Science, LUISS ‘Guido Carli’ [3/2013–9/2016]
+
+## Affiliations
+* *Research affiliate* - Italian Institute for Public Policy Analysis [2017-]
+* *Member* - Centre on Social Movement Studies, Scuola Normale Superiore [2012-]
+* *Member of the Managing board* - International Center on Democracy and Democratization, LUISS `Guido Carli' [2012-]
+
+## Education
+* *PhD in Political Science* - Istituto Italiano di Scienze Umane [10/2009-2/2013]
+* *MA in Methodology and Empirical Research for the Social Sciences* - Università degli Studi di Firenze [9/2006-5/2009]
+* *BA in Sociology* - Università degli Studi di Trento [9/2002-12/2005]
+
+## Stays abroad
+* *Teaching practice week* - Masaryk University [3/2018]
+* *Visiting fellow* - Department of Sociology, Universiteit Utrecht [9/2016]
+* *Visiting fellow* - Center for the Study of Democracy, University of California - Irvine [10/2011-3/2012]
