@@ -30,3 +30,15 @@ You can find my cv in pdf [here](/cv-quaranta.pdf).
 * *Teaching practice week* - Masaryk University [3/2018]
 * *Visiting fellow* - Department of Sociology, Universiteit Utrecht [9/2016]
 * *Visiting fellow* - Center for the Study of Democracy, University of California - Irvine [10/2011-3/2012]
+
+## Teaching (courses only)
+
+* *LUISS `Guido Carli'*
+** Quantitative Methods for Political Research, (PhD, 18 hrs, in english) [2014, 2015, 2016, 2017, 2018]
+** Political Science, (BA, 60 hrs, in italian) [2017]
+** Processes of Democratization in the Mediterranean Area, (MA, 20 hrs, in italian) [2014, 2015, 2016]
+** Processes of Democratization, (MA, 20 hrs, in english, co-lecturer) [2015]
+** Foundations of Political Science, (pre-MA, 18 hrs, in italian) [2013]
+
+* *Institute of Advanced Studies IMT*
+** Quantitative Methods for Political Research, (PhD, 15 hrs, in english) [2013]
